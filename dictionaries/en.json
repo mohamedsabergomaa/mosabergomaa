@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "siteName": "Mohammed Saber",
+    "title": "Mohammed Saber — Frontend Developer & UI/UX Designer",
+    "description": "Premium websites for ambitious local businesses. Gyms, clinics, nurseries, restaurants, and construction companies that refuse to look amateur online.",
+    "keywords": "Frontend Developer, UI/UX Designer, Web Designer, Gym Websites, Clinic Websites, Restaurant Websites, Next.js, Mohammed Saber"
+  },
+  "nav": {
+    "logo": "Mohammed",
+    "links": {
+      "work": "Work",
+      "process": "Process",
+      "about": "About",
+      "contact": "Contact"
+    },
+    "availability": "2/4 slots open · Q3",
+    "cta": "Start a project",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "hero": {
+    "eyebrow": "Frontend · UI/UX · Webflow · Next.js",
+    "line1": "I build websites",
+    "line2Prefix": "that look ",
+    "rotatingWords": ["premium", "brutalist", "unforgettable", "yours"],
+    "line2Suffix": ",",
+    "line3": "and convert.",
+    "subtitle": "For ambitious gyms, clinics, restaurants, nurseries, and local businesses that refuse to look amateur online.",
+    "ctaPrimary": "Start your project",
+    "ctaSecondary": "See my work",
+    "trust": {
+      "rating": "4.9/5 · 32 verified clients",
+      "projects": "47+ projects shipped",
+      "experience": "5+ years experience",
+      "availability": "Available for Q3 2026"
+    }
+  },
+  "logoCloud": {
+    "eyebrow": "Trusted by ambitious local businesses",
+    "reviews": "32 verified reviews · 4.9/5",
+    "logos": ["IRON GYM", "CITY CLINIC", "LITTLE STARS", "OLIVE & OAK", "MERIDIAN BUILD", "PEAK FITNESS", "NORTH DENTAL", "FERN NURSERY", "BISTRO 22", "FOUNDATION CO"]
+  },
+  "selectedWork": {
+    "eyebrow": "01 / Selected Work · 2024—2026",
+    "heading": "Built for businesses that",
+    "headingAccent": "actually",
+    "headingSuffix": "need a website that works.",
+    "browseAll": "Browse by industry",
+    "seeAll": "See all 47 projects",
+    "viewCase": "View case study"
+  },
+  "categories": {
+    "eyebrow": "02 / Work by Industry",
+    "heading": "Pick your industry.",
+    "headingAccent": "I've probably built one.",
+    "subtitle": "I don't build \"websites.\" I build sites that solve the exact conversion problem your industry has.",
+    "explore": "Explore work"
+  },
+  "services": {
+    "eyebrow": "03 / Services",
+    "heading": "Premium websites,",
+    "headingAccent": "end-to-end,",
+    "headingSuffix": "by one person.",
+    "subtitle": "No agency overhead. No \"we'll get back to you with the dev team.\" Just me, designing and building until it's ready.",
+    "help": "Not sure which you need? I'll help you figure it out — for free.",
+    "cta": "Get a custom quote",
+    "items": [
+      { "n": "01", "title": "UI/UX Design", "desc": "Figma design systems that look as good as they work. Wireframes, prototypes, and pixel-perfect mockups.", "deliverables": ["Wireframes", "Hi-fi mockups", "Design system", "Prototype"], "price": 1200 },
+      { "n": "02", "title": "Frontend Development", "desc": "Next.js, React, TypeScript, Tailwind. Fast, accessible, SEO-ready code that ships to production.", "deliverables": ["Next.js / React", "TypeScript", "Tailwind / CSS", "CMS integration"], "price": 2500 },
+      { "n": "03", "title": "Landing Pages", "desc": "High-converting single pages for product launches, services, and ad campaigns. Designed + built in 1 week.", "deliverables": ["1 page", "Copywriting", "A/B variants", "Tracking setup"], "price": 900 },
+      { "n": "04", "title": "Website Rebuilds", "desc": "Modernize an outdated site without losing your SEO. Migrate from WordPress, Webflow, or Wix to a fast stack.", "deliverables": ["SEO migration", "Redesign", "Performance audit", "Training"], "price": 3500 }
+    ]
+  },
+  "process": {
+    "eyebrow": "04 / How It Works",
+    "heading": "From idea to launch in",
+    "headingAccent": "three weeks.",
+    "subtitle": "No surprises. No ghosting. No 3-month timeline. Here's exactly what happens after you say \"let's go.\"",
+    "stillOnFence": "Still on the fence? Book a free 15-min call.",
+    "stillOnFenceSub": "No pitch, no pressure. Just honest advice on whether I'm the right person for your project.",
+    "bookCta": "Book a free call",
+    "bookNote": "Usually within 24 hours · No commitment",
+    "steps": [
+      { "n": "01", "title": "Discovery", "days": "Day 1–3", "desc": "We hop on a call. You tell me about your business, your customers, your competitors. I come back with a sitemap, brief, and fixed quote within 48 hours.", "deliverables": ["Strategy call", "Competitor audit", "Sitemap", "Fixed quote"] },
+      { "n": "02", "title": "Design", "days": "Day 4–10", "desc": "Figma mockups. Two revision rounds. You see exactly what you're getting before a single line of code is written.", "deliverables": ["Figma mockups", "2 revision rounds", "Design system", "Final approval"] },
+      { "n": "03", "title": "Develop", "days": "Day 11–18", "desc": "I build it. Next.js, Tailwind, animations, CMS, integrations. You get a staging link and daily progress updates on Slack/WhatsApp.", "deliverables": ["Production build", "CMS setup", "Integrations", "Daily updates"] },
+      { "n": "04", "title": "Launch", "days": "Day 19–21", "desc": "QA on every device, every browser. Deploy, analytics, training videos, and 30 days of free support after launch.", "deliverables": ["QA pass", "Live deploy", "Analytics", "30 days support"] }
+    ]
+  },
+  "about": {
+    "eyebrow": "05 / About",
+    "heading": "I'm Mohammed.",
+    "headingAccent": "One person, one studio.",
+    "story1": "For the last 5+ years I've designed and built websites for local businesses that didn't know what \"good\" looked like — until they saw it on a screen about their own business.",
+    "story2": "I work mostly with gyms, clinics, nurseries, restaurants, and construction companies. The kind of businesses where the owner still answers the phone. I love that. I design and code everything myself — no account managers, no project managers, no \"team sync.\"",
+    "story3": "When I'm not designing, I'm probably watching football, making espresso at 1am, or breaking my own portfolio just to rebuild it.",
+    "interests": ["⚽ Football", "🎵 Music", "☕ Late-night coffee", "🎮 Design games", "📷 Photography", "✈️ Travel"],
+    "values": [
+      { "title": "Craft over speed", "body": "I'd rather ship late and great than fast and forgettable. You're paying for quality, not deadlines I cut corners to hit." },
+      { "title": "Conversion = care", "body": "Pretty sites that don't convert are decoration. Every choice I make — copy, layout, color — has a business reason behind it." },
+      { "title": "One client at a time", "body": "I cap at 4 projects per month. It's how I stay sharp, ship fast, and actually answer your messages within hours." },
+      { "title": "Communication > deliverables", "body": "Daily Slack/WhatsApp updates. Loom walkthroughs. Async-friendly. You'll never wonder what's happening on your project." }
+    ],
+    "cta": "Like how I think? Let's work together.",
+    "ctaButton": "Let's talk"
+  },
+  "techStack": {
+    "eyebrow": "06 / Stack",
+    "heading": "Modern stack,",
+    "headingAccent": "future-proof",
+    "headingSuffix": "output.",
+    "subtitle": "The tools I use daily. Boring? Maybe. Reliable? Always. Your site won't be built on a platform that'll disappear in two years.",
+    "tools": [
+      { "name": "Figma", "use": "Design", "icon": "🎨" },
+      { "name": "React", "use": "Framework", "icon": "⚛" },
+      { "name": "Next.js", "use": "Framework", "icon": "▲" },
+      { "name": "TypeScript", "use": "Language", "icon": "TS" },
+      { "name": "Tailwind", "use": "Styling", "icon": "◇" },
+      { "name": "Framer Motion", "use": "Animation", "icon": "✦" },
+      { "name": "GSAP", "use": "Animation", "icon": "GS" },
+      { "name": "Sanity", "use": "CMS", "icon": "S" },
+      { "name": "Contentful", "use": "CMS", "icon": "C" },
+      { "name": "Vercel", "use": "Hosting", "icon": "▰" },
+      { "name": "Stripe", "use": "Payments", "icon": "$" },
+      { "name": "Webflow", "use": "No-code", "icon": "W" }
+    ]
+  },
+  "testimonials": {
+    "eyebrow": "07 / Client Voices",
+    "heading": "Don't take my word for it.",
+    "headingAccent": "Take theirs.",
+    "items": [
+      { "quote": "We launched the new site on a Monday. By Friday, 14 people had booked trial classes online. We used to get 2 a week. Worth every dollar.", "name": "Karim H.", "role": "Owner", "business": "Iron Gym", "industry": "Gym", "metric": "14 trial bookings in week 1", "initials": "KH" },
+      { "quote": "Patients actually book online now. No more phone tag, no more missed calls. The site looks so clean that people trust us before they even visit.", "name": "Dr. Layla A.", "role": "Director", "business": "City Clinic", "industry": "Clinic", "metric": "120 appointments / month online", "initials": "LA" },
+      { "quote": "Parents tell us they chose us because of the website. It feels warm, professional, and the virtual tour saves us so much time on inquiries.", "name": "Mona S.", "role": "Founder", "business": "Little Stars Nursery", "industry": "Nursery", "metric": "+215% enrollment inquiries", "initials": "MS" },
+      { "quote": "Our online reservations tripled in the first month. Mohammed understood our restaurant's vibe before we even explained it.", "name": "Chef Omar K.", "role": "Owner", "business": "Olive & Oak", "industry": "Restaurant", "metric": "3x online reservations", "initials": "OK" },
+      { "quote": "We've won 2 tenders since the new site went live. The portfolio section alone paid for the build in 60 days.", "name": "Hassan M.", "role": "Managing Director", "business": "Meridian Build", "industry": "Construction", "metric": "2 tender wins in 60 days", "initials": "HM" },
+      { "quote": "Fast, premium, no nonsense. Exactly the developer I needed. Already booked him for our second location.", "name": "Yara F.", "role": "CEO", "business": "Peak Fitness", "industry": "Gym", "metric": "Booked again for 2nd location", "initials": "YF" }
+    ]
+  },
+  "faq": {
+    "eyebrow": "08 / FAQ",
+    "heading": "Everything you might be",
+    "headingAccent": "wondering.",
+    "subtitle": "Still have a question? Ask me directly — I reply within 24 hours.",
+    "askDirect": "Ask directly",
+    "items": [
+      { "q": "How long does a project take?", "a": "Most websites ship in 2–3 weeks from kickoff. Landing pages in 1 week. Larger platforms (dashboards, multi-section sites) take 4–6 weeks. I'll give you a precise timeline in the proposal." },
+      { "q": "What's the investment?", "a": "Landing pages start at $900. Marketing websites start at $2,500. Custom platforms and dashboards start at $5,000+. I'll always send a fixed quote — no hourly billing surprises." },
+      { "q": "Do you offer payment plans?", "a": "Yes. 50% to start, 50% on launch. For larger projects, we can split into 3 milestones. I also work with payment plans for nurseries and small restaurants when needed." },
+      { "q": "What if I don't have content yet?", "a": "That's normal. I help with copy direction, photography briefs, and stock imagery curation. I can also write your homepage, service pages, and about page as part of the project." },
+      { "q": "Do you only build new sites or also redesign?", "a": "Both. About 60% of my work is redesigns — taking an outdated WordPress, Wix, or Webflow site and rebuilding it properly. I'll preserve your SEO and migrate everything safely." },
+      { "q": "Will my site be fast on mobile?", "a": "Yes. I optimize for Core Web Vitals obsessively. Every site I ship scores 90+ on Lighthouse for performance, accessibility, and SEO. Mobile is non-negotiable — most of your visitors are on phones." },
+      { "q": "Do you handle SEO?", "a": "On-page SEO is included in every project (titles, meta, schema, image optimization, internal linking). For ongoing SEO / content marketing, I work with trusted partners I can refer you to." },
+      { "q": "What happens after launch?", "a": "30 days of free support for tweaks and bug fixes. After that, I offer a monthly retainer ($200/mo) for updates, new pages, and ongoing optimization. Or you can manage it yourself — I provide training videos." },
+      { "q": "Can you work with my existing branding?", "a": "Absolutely. If you have a logo, colors, and brand guide, I'll follow it. If your brand needs refreshing, I can do that too — usually as a small add-on to the project." },
+      { "q": "How do we communicate?", "a": "Slack or WhatsApp, whichever you prefer. I send daily updates, weekly Loom walkthroughs, and I reply to messages within a few hours during working days. You'll never wonder what's happening." }
+    ]
+  },
+  "contact": {
+    "eyebrow": "09 / Let's Talk",
+    "heading": "Got a project?",
+    "headingAccent": "Let's make it real.",
+    "subtitle": "Fill the form, send a WhatsApp, or book a call — whichever feels easiest. I reply within 24 hours, usually faster.",
+    "final": {
+      "eyebrow": "Final step",
+      "heading1": "Let's build",
+      "headingAccent": "something",
+      "headingSuffix": "great."
+    },
+    "form": {
+      "name": "Your name",
+      "namePlaceholder": "Karim Hassan",
+      "business": "Business name",
+      "businessPlaceholder": "Iron Gym",
+      "industry": "Industry",
+      "industryOptions": ["Gym / Fitness", "Clinic / Medical", "Nursery / Childcare", "Restaurant / Cafe", "Construction", "Local Service", "Other"],
+      "type": "Project type",
+      "typeOptions": ["New website", "Redesign / Rebuild", "Landing page", "Dashboard / Web app", "Not sure yet"],
+      "budget": "Budget range",
+      "budgetOptions": ["Under $1,000", "$1,000 – $3,000", "$3,000 – $6,000", "$6,000 – $15,000", "$15,000+"],
+      "contact": "Email or phone",
+      "contactPlaceholder": "you@email.com",
+      "message": "Tell me about your project",
+      "messagePlaceholder": "What does your business do? What do you need? Any links, examples, or deadlines I should know about.",
+      "consent": "By submitting, you agree to receive a reply from me. No spam, no newsletter — just a conversation.",
+      "send": "Send message",
+      "sending": "Sending...",
+      "successTitle": "Message sent. ✓",
+      "successBody": "Thanks — I'll read your brief and reply within 24 hours with next steps or a quick clarifying question.",
+      "successFooter": "In the meantime, you can also reach me on WhatsApp for a faster reply."
+    },
+    "channels": [
+      { "label": "Email", "value": "mohammmedsaber2007@gmail.com", "href": "mailto:mohammmedsaber2007@gmail.com", "desc": "Best for project briefs" },
+      { "label": "WhatsApp", "value": "+20 155 581 7339", "href": "https://wa.me/201555817339", "desc": "Fastest response" },
+      { "label": "Schedule a call", "value": "WhatsApp me", "href": "https://wa.me/201555817339", "desc": "15 min · free · no pressure" }
+    ],
+    "availability": {
+      "eyebrow": "Current availability",
+      "title": "2 of 4 Q3 slots open",
+      "body": "Booking projects for July — September 2026. After that, Q4 opens in September."
+    }
+  },
+  "footer": {
+    "heading1": "Let's build",
+    "headingAccent": "something",
+    "headingSuffix": "great.",
+    "cta": "Start a project",
+    "groups": [
+      { "title": "Studio", "links": [{ "href": "#work", "label": "Selected Work" }, { "href": "#process", "label": "Process" }, { "href": "#services", "label": "Services" }, { "href": "#about", "label": "About" }] },
+      { "title": "Industries", "links": [{ "href": "/work/gyms", "label": "Gyms" }, { "href": "/work/clinics", "label": "Clinics" }, { "href": "/work/nurseries", "label": "Nurseries" }, { "href": "/work/restaurants", "label": "Restaurants" }, { "href": "/work/construction", "label": "Construction" }] },
+      { "title": "Connect", "links": [{ "href": "mailto:mohammmedsaber2007@gmail.com", "label": "mohammmedsaber2007@gmail.com" }, { "href": "https://wa.me/201555817339", "label": "WhatsApp" }, { "href": "https://www.facebook.com/profile.php?id=100051365303482", "label": "Facebook" }, { "href": "https://www.instagram.com/mosaber_gomaa/", "label": "Instagram" }, { "href": "https://linkedin.com/in/mohammmedsaber", "label": "LinkedIn" }] }
+    ],
+    "legal": "© 2026 Mohammed Saber. Built with care, not templates.",
+    "lastUpdated": "Last updated · June 2026",
+    "available": "Available for Q3"
+  },
+  "servicesPage": {
+    "eyebrow": "Services",
+    "heading": "Premium websites,",
+    "headingAccent": "end-to-end,",
+    "headingSuffix": "by one person.",
+    "subtitle": "Three clear tiers. No surprises. No hidden fees. You know exactly what you're getting and what it costs before we start.",
+    "tiersEyebrow": "Pricing tiers",
+    "tiersNote": "Need something else? Custom projects start at $200/hour with a 10-hour minimum. Long-term retainers available from $2,000/month.",
+    "tiers": [
+      { "name": "Starter", "price": 900, "desc": "Perfect for landing pages and small businesses getting online for the first time.", "features": ["1 page (landing or single page)", "Mobile-first responsive design", "Basic animations", "Contact form", "1 round of revisions", "1 week delivery", "30 days support"], "cta": "Start a starter project" },
+      { "name": "Standard", "price": 2500, "featured": true, "desc": "For most local businesses — multi-page marketing site with everything you need.", "features": ["5–8 pages", "Custom design system", "CMS integration (Sanity / Contentful)", "Advanced animations", "Forms, integrations, SEO", "2 revision rounds", "3 week delivery", "60 days support"], "cta": "Start a standard project" },
+      { "name": "Premium", "price": 5000, "desc": "For complex platforms, dashboards, and custom web applications.", "features": ["Unlimited pages / sections", "Backend + frontend (Next.js, DB)", "Custom dashboards / auth", "Third-party integrations", "3 revision rounds", "4–6 week delivery", "90 days support", "Performance + SEO audit"], "cta": "Talk about a premium project" }
+    ]
+  },
+  "aboutPage": {
+    "eyebrow": "About",
+    "heading": "One person.",
+    "headingAccent": "One studio.",
+    "headingSuffix": "Five years of showing up.",
+    "subtitle": "I'm a frontend developer and UI/UX designer from Egypt. I build premium websites for local businesses that didn't know what \"good\" looked like — until they saw it on a screen about their own business.",
+    "timelineEyebrow": "Timeline",
+    "timelineHeading": "A short version of",
+    "timelineHeadingAccent": "the last 5 years.",
+    "timeline": [
+      { "year": "2019", "title": "Started as a self-taught designer", "body": "Photoshop, dribbble, and 1000 hours of YouTube tutorials." },
+      { "year": "2020", "title": "First client project", "body": "A friend's restaurant. They paid me $300 and I was hooked." },
+      { "year": "2021", "title": "Went full-time freelance", "body": "Quit my day job. Built my first Next.js site. Never looked back." },
+      { "year": "2023", "title": "Crossed 30 projects shipped", "body": "Started niching into local business websites. Found my audience." },
+      { "year": "2025", "title": "Capped at 4 projects / month", "body": "Refused a 5th. Sleep is important. Quality matters more than volume." },
+      { "year": "2026", "title": "Here we are", "body": "47+ projects. 32 happy clients. Still answering my own DMs." }
+    ]
+  },
+  "contactPage": {
+    "eyebrow": "Contact",
+    "heading": "Let's start a",
+    "headingAccent": "conversation.",
+    "subtitle": "Tell me about your project. I reply within 24 hours, usually faster. No pressure, no commitment."
+  },
+  "industryPage": {
+    "backToAll": "Back to all work",
+    "backToWork": "See the full process",
+    "seeMore": "See more",
+    "statsEyebrow": "Featured projects",
+    "statsHeading": "Real results for",
+    "statsHeadingAccent": "real",
+    "statsHeadingSuffix": ".",
+    "processHeading": "From brief to live in",
+    "processHeadingAccent": "3 weeks.",
+    "faqEyebrow": "FAQ",
+    "faqHeading": "Common questions from",
+    "faqHeadingAccent": "owners.",
+    "ctaHeading": "Ready to build your",
+    "ctaHeadingAccent": "website?",
+    "ctaBody": "2 of 4 Q3 slots open. Booking projects for July — September 2026.",
+    "ctaPrimary": "Start your project",
+    "ctaSecondary": "See landing page examples"
+  },
+  "caseStudy": {
+    "breadcrumbHome": "Home",
+    "resultsHeading": "What changed",
+    "briefHeading": "What they needed",
+    "approachHeading": "How we did it",
+    "stackHeading": "Stack used",
+    "ctaHeading": "Want results like these for",
+    "ctaHeadingAccent": "your business?"
+  },
+  "common": {
+    "view": "VIEW",
+    "drag": "DRAG",
+    "play": "PLAY",
+    "hire": "HIRE",
+    "explore": "EXPLORE",
+    "send": "SEND",
+    "ask": "ASK",
+    "book": "BOOK",
+    "quote": "QUOTE",
+    "all": "ALL",
+    "seeWork": "SEE WORK",
+    "service": "SERVICE",
+    "process": "PROCESS",
+    "open": "OPEN"
+  }
+}
